@@ -1,10 +1,10 @@
 # let-s-learn-git
 
-CLONE 
+{CLONE }>
 
 git clone https://github.com/SARSTSS/let-s-learn-git.git
 
-Go in clone dictionary
+{Go in clone dictionary}>
 
 cd let-s-learn-git
 
